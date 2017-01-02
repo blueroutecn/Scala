@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="hadoop-2.7">
+    <CLASSES>
+      <root url="file://D:/学习/spark环境/hadoop-2.7.2" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://D:/学习/spark环境/hadoop-2.7.2/share/doc/hadoop/api" />
+      <root url="file://D:/学习/spark环境/hadoop-2.7.2/share/doc/hadoop/hadoop-hdfs-httpfs/apidocs" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://D:/学习/spark环境/hadoop-2.7.2/share/hadoop/common/jdiff" />
+      <root url="file://D:/学习/spark环境/hadoop-2.7.2/share/hadoop/hdfs/jdiff" />
+    </SOURCES>
+  </library>
+</component>

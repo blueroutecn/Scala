@@ -1,0 +1,55 @@
+<component name="libraryTable">
+  <library name="spark-assembly-1.6.2-hadoop2.2.0">
+    <CLASSES>
+      <root url="jar://D:/学习/spark环境/spark-1.6.2-bin-without-hadoop/lib/spark-assembly-1.6.2-hadoop2.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/学习/spark环境/spark-1.6.2-bin-without-hadoop/lib/spark-assembly-1.6.2-hadoop2.2.0.jar!/" />
+      <root url="jar://D:/学习/spark环境/spark-1.6.2-bin-without-hadoop/lib/spark-assembly-1.6.2-hadoop2.2.0.jar!/" />
+      <root url="file://D:/学习/spark环境/spark-1.6.2-sourcecode" />
+      <root url="file://D:/学习/spark环境/spark-1.6.2-sourcecode/bagel/src/main/scala" />
+      <root url="file://D:/学习/spark环境/spark-1.6.2-sourcecode/core/src/main/java" />
+      <root url="file://D:/学习/spark环境/spark-1.6.2-sourcecode/core/src/main/scala" />
+      <root url="file://D:/学习/spark环境/spark-1.6.2-sourcecode/core/src/test/java" />
+      <root url="file://D:/学习/spark环境/spark-1.6.2-sourcecode/dev/audit-release/maven_app_core/src/main/java" />
+      <root url="file://D:/学习/spark环境/spark-1.6.2-sourcecode/examples/src/main/java" />
+      <root url="file://D:/学习/spark环境/spark-1.6.2-sourcecode/external/flume/src/main/scala" />
+      <root url="file://D:/学习/spark环境/spark-1.6.2-sourcecode/external/flume/src/test/java" />
+      <root url="file://D:/学习/spark环境/spark-1.6.2-sourcecode/external/kafka/src/main/scala" />
+      <root url="file://D:/学习/spark环境/spark-1.6.2-sourcecode/external/kafka/src/test/java" />
+      <root url="file://D:/学习/spark环境/spark-1.6.2-sourcecode/external/mqtt/src/main/scala" />
+      <root url="file://D:/学习/spark环境/spark-1.6.2-sourcecode/external/mqtt/src/test/java" />
+      <root url="file://D:/学习/spark环境/spark-1.6.2-sourcecode/external/twitter/src/main/scala" />
+      <root url="file://D:/学习/spark环境/spark-1.6.2-sourcecode/external/twitter/src/test/java" />
+      <root url="file://D:/学习/spark环境/spark-1.6.2-sourcecode/external/zeromq/src/main/scala" />
+      <root url="file://D:/学习/spark环境/spark-1.6.2-sourcecode/external/zeromq/src/test/java" />
+      <root url="file://D:/学习/spark环境/spark-1.6.2-sourcecode/extras/java8-tests/src/test/java" />
+      <root url="file://D:/学习/spark环境/spark-1.6.2-sourcecode/extras/kinesis-asl/src/main/java" />
+      <root url="file://D:/学习/spark环境/spark-1.6.2-sourcecode/extras/kinesis-asl/src/test/java" />
+      <root url="file://D:/学习/spark环境/spark-1.6.2-sourcecode/graphx/src/main/java" />
+      <root url="file://D:/学习/spark环境/spark-1.6.2-sourcecode/graphx/src/main/scala" />
+      <root url="file://D:/学习/spark环境/spark-1.6.2-sourcecode/launcher/src/main/java" />
+      <root url="file://D:/学习/spark环境/spark-1.6.2-sourcecode/launcher/src/test/java" />
+      <root url="file://D:/学习/spark环境/spark-1.6.2-sourcecode/mllib/src/main/scala" />
+      <root url="file://D:/学习/spark环境/spark-1.6.2-sourcecode/mllib/src/test/java" />
+      <root url="file://D:/学习/spark环境/spark-1.6.2-sourcecode/network/common/src/main/java" />
+      <root url="file://D:/学习/spark环境/spark-1.6.2-sourcecode/network/common/src/test/java" />
+      <root url="file://D:/学习/spark环境/spark-1.6.2-sourcecode/network/shuffle/src/main/java" />
+      <root url="file://D:/学习/spark环境/spark-1.6.2-sourcecode/network/shuffle/src/test/java" />
+      <root url="file://D:/学习/spark环境/spark-1.6.2-sourcecode/network/yarn/src/main/java" />
+      <root url="file://D:/学习/spark环境/spark-1.6.2-sourcecode/sql/catalyst/src/main/java" />
+      <root url="file://D:/学习/spark环境/spark-1.6.2-sourcecode/sql/core/src/main/java" />
+      <root url="file://D:/学习/spark环境/spark-1.6.2-sourcecode/sql/core/src/test/gen-java" />
+      <root url="file://D:/学习/spark环境/spark-1.6.2-sourcecode/sql/core/src/test/java" />
+      <root url="file://D:/学习/spark环境/spark-1.6.2-sourcecode/sql/hive/src/main/scala" />
+      <root url="file://D:/学习/spark环境/spark-1.6.2-sourcecode/sql/hive/src/test/java" />
+      <root url="file://D:/学习/spark环境/spark-1.6.2-sourcecode/streaming/src/main/java" />
+      <root url="file://D:/学习/spark环境/spark-1.6.2-sourcecode/streaming/src/main/scala" />
+      <root url="file://D:/学习/spark环境/spark-1.6.2-sourcecode/streaming/src/test/java" />
+      <root url="file://D:/学习/spark环境/spark-1.6.2-sourcecode/tags/src/main/java" />
+      <root url="file://D:/学习/spark环境/spark-1.6.2-sourcecode/unsafe/src/main/java" />
+      <root url="file://D:/学习/spark环境/spark-1.6.2-sourcecode/unsafe/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
